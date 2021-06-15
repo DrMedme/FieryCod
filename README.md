@@ -1,4 +1,4 @@
-Clojure/script developer, author and maintainer of [holy-lambda](https://github.com/FieryCod/holy-lambda) and it's extensions.
+Clojure/script developer, author/maintainer of [holy-lambda](https://github.com/FieryCod/holy-lambda), and its extensions.
 
 - 🔭 Motivation: Provide high quality utils to ensure Clojure/script being an AWS Lambda viable choice.
 
